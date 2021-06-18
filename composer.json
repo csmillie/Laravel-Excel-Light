@@ -1,5 +1,5 @@
 {
-  "name": "maatwebsite/laravel-excel-light",
+  "name": "csmillie/laravel-excel-light",
   "description": "A faster and more eloquent way of importing and exporting Excel and CSV in Laravel with the speed of Spout",
   "license": "MIT",
   "keywords": [
